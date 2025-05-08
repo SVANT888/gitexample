@@ -1,1 +1,1 @@
-# gitexample
+# create repository, 2 html files, push to remote repositorygitexample
